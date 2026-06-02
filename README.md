@@ -1,8 +1,7 @@
 # Symbol-Table-Manager
 
-An interactive, dark-themed web application simulating the **Lexical Analysis Phase** of a compiler. Built using Python, Streamlit, and Pandas, this tool processes C-style source code to extract tokens, manage active scopes, generate mock physical memory pointers, and flags compilation semantic errors (like variable redeclarations) on the fly.
+An interactive, dark-themed web application simulating the **Compiler Phase** of a compiler. Built using Python, Streamlit, and Pandas, this tool processes C-style source code to extract tokens, manage active scopes, generate mock physical memory pointers, and flags compilation semantic errors (like variable redeclarations) on the fly.
 
-Developed as part of the **Compiler Design Lab (TCS 601)** curriculum.
 
 ---
 
