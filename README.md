@@ -25,11 +25,4 @@ Developed as part of the **Compiler Design Lab (TCS 601)** curriculum.
 
 ---
 
-## 🚀 Quick Start & Installation
 
-Ensure you have Python 3.10+ installed on your local machine, then follow these steps:
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/symbol-table-manager.git](https://github.com/YOUR_USERNAME/symbol-table-manager.git)
-cd symbol-table-manager
